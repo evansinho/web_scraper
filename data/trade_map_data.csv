@@ -1,0 +1,2284 @@
+0,1,2,3,4,5,6
+"Product
+
+
+
+
+TOTAL - All products
+01 - Live animals
+02 - Meat and edible meat offal
+03 - Fish and crustaceans, molluscs and other aquatic invertebrates
+04 - Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere  ...
+05 - Products of animal origin, not elsewhere specified or included
+06 - Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage
+07 - Edible vegetables and certain roots and tubers
+08 - Edible fruit and nuts; peel of citrus fruit or melons
+09 - Coffee, tea, maté and spices
+10 - Cereals
+11 - Products of the milling industry; malt; starches; inulin; wheat gluten
+12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or  ...
+13 - Lac; gums, resins and other vegetable saps and extracts
+14 - Vegetable plaiting materials; vegetable products not elsewhere specified or included
+15 - Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible  ...
+16 - Preparations of meat, of fish, of crustaceans, molluscs or other aquatic invertebrates,  ...
+17 - Sugars and sugar confectionery
+18 - Cocoa and cocoa preparations
+19 - Preparations of cereals, flour, starch or milk; pastrycooks' products
+20 - Preparations of vegetables, fruit, nuts or other parts of plants
+21 - Miscellaneous edible preparations
+22 - Beverages, spirits and vinegar
+23 - Residues and waste from the food industries; prepared animal fodder
+24 - Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine,  ...
+25 - Salt; sulphur; earths and stone; plastering materials, lime and cement
+26 - Ores, slag and ash
+27 - Mineral fuels, mineral oils and products of their distillation; bituminous substances;  ...
+28 - Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth  ...
+29 - Organic chemicals
+30 - Pharmaceutical products
+31 - Fertilisers
+32 - Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring  ...
+33 - Essential oils and resinoids; perfumery, cosmetic or toilet preparations
+34 - Soap, organic surface-active agents, washing preparations, lubricating preparations, artificial  ...
+35 - Albuminoidal substances; modified starches; glues; enzymes
+36 - Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations
+37 - Photographic or cinematographic goods
+38 - Miscellaneous chemical products
+39 - Plastics and articles thereof
+40 - Rubber and articles thereof
+41 - Raw hides and skins (other than furskins) and leather
+42 - Articles of leather; saddlery and harness; travel goods, handbags and similar containers;  ...
+43 - Furskins and artificial fur; manufactures thereof
+44 - Wood and articles of wood; wood charcoal
+45 - Cork and articles of cork
+46 - Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork
+47 - Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper  ...
+48 - Paper and paperboard; articles of paper pulp, of paper or of paperboard
+49 - Printed books, newspapers, pictures and other products of the printing industry; manuscripts,  ...
+50 - Silk
+51 - Wool, fine or coarse animal hair; horsehair yarn and woven fabric
+52 - Cotton
+53 - Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn
+54 - Man-made filaments; strip and the like of man-made textile materials
+55 - Man-made staple fibres
+56 - Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles  ...
+57 - Carpets and other textile floor coverings
+58 - Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery
+59 - Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind  ...
+60 - Knitted or crocheted fabrics
+61 - Articles of apparel and clothing accessories, knitted or crocheted
+62 - Articles of apparel and clothing accessories, not knitted or crocheted
+63 - Other made-up textile articles; sets; worn clothing and worn textile articles; rags
+64 - Footwear, gaiters and the like; parts of such articles
+65 - Headgear and parts thereof
+66 - Umbrellas, sun umbrellas, walking sticks, seat-sticks, whips, riding-crops and parts thereof
+67 - Prepared feathers and down and articles made of feathers or of down; artificial flowers;  ...
+68 - Articles of stone, plaster, cement, asbestos, mica or similar materials
+69 - Ceramic products
+70 - Glass and glassware
+71 - Natural or cultured pearls, precious or semi-precious stones, precious metals, metals  ...
+72 - Iron and steel
+73 - Articles of iron or steel
+74 - Copper and articles thereof
+75 - Nickel and articles thereof
+76 - Aluminium and articles thereof
+78 - Lead and articles thereof
+79 - Zinc and articles thereof
+80 - Tin and articles thereof
+81 - Other base metals; cermets; articles thereof
+82 - Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal
+83 - Miscellaneous articles of base metal
+84 - Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof
+85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers,  ...
+86 - Railway or tramway locomotives, rolling stock and parts thereof; railway or tramway track  ...
+87 - Vehicles other than railway or tramway rolling stock, and parts and accessories thereof
+88 - Aircraft, spacecraft, and parts thereof
+89 - Ships, boats and floating structures
+90 - Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical  ...
+91 - Clocks and watches and parts thereof
+92 - Musical instruments; parts and accessories of such articles
+93 - Arms and ammunition; parts and accessories thereof
+94 - Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings;  ...
+95 - Toys, games and sports requisites; parts and accessories thereof
+96 - Miscellaneous manufactured articles
+97 - Works of art, collectors' pieces and antiques
+98 - Commodities specified at chapter level only
+99 - Commodities not elsewhere specified",Product,,"TOTAL - All products
+01 - Live animals
+02 - Meat and edible meat offal
+03 - Fish and crustaceans, molluscs and other aquatic invertebrates
+04 - Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere  ...
+05 - Products of animal origin, not elsewhere specified or included
+06 - Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage
+07 - Edible vegetables and certain roots and tubers
+08 - Edible fruit and nuts; peel of citrus fruit or melons
+09 - Coffee, tea, maté and spices
+10 - Cereals
+11 - Products of the milling industry; malt; starches; inulin; wheat gluten
+12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or  ...
+13 - Lac; gums, resins and other vegetable saps and extracts
+14 - Vegetable plaiting materials; vegetable products not elsewhere specified or included
+15 - Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible  ...
+16 - Preparations of meat, of fish, of crustaceans, molluscs or other aquatic invertebrates,  ...
+17 - Sugars and sugar confectionery
+18 - Cocoa and cocoa preparations
+19 - Preparations of cereals, flour, starch or milk; pastrycooks' products
+20 - Preparations of vegetables, fruit, nuts or other parts of plants
+21 - Miscellaneous edible preparations
+22 - Beverages, spirits and vinegar
+23 - Residues and waste from the food industries; prepared animal fodder
+24 - Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine,  ...
+25 - Salt; sulphur; earths and stone; plastering materials, lime and cement
+26 - Ores, slag and ash
+27 - Mineral fuels, mineral oils and products of their distillation; bituminous substances;  ...
+28 - Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth  ...
+29 - Organic chemicals
+30 - Pharmaceutical products
+31 - Fertilisers
+32 - Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring  ...
+33 - Essential oils and resinoids; perfumery, cosmetic or toilet preparations
+34 - Soap, organic surface-active agents, washing preparations, lubricating preparations, artificial  ...
+35 - Albuminoidal substances; modified starches; glues; enzymes
+36 - Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations
+37 - Photographic or cinematographic goods
+38 - Miscellaneous chemical products
+39 - Plastics and articles thereof
+40 - Rubber and articles thereof
+41 - Raw hides and skins (other than furskins) and leather
+42 - Articles of leather; saddlery and harness; travel goods, handbags and similar containers;  ...
+43 - Furskins and artificial fur; manufactures thereof
+44 - Wood and articles of wood; wood charcoal
+45 - Cork and articles of cork
+46 - Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork
+47 - Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper  ...
+48 - Paper and paperboard; articles of paper pulp, of paper or of paperboard
+49 - Printed books, newspapers, pictures and other products of the printing industry; manuscripts,  ...
+50 - Silk
+51 - Wool, fine or coarse animal hair; horsehair yarn and woven fabric
+52 - Cotton
+53 - Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn
+54 - Man-made filaments; strip and the like of man-made textile materials
+55 - Man-made staple fibres
+56 - Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles  ...
+57 - Carpets and other textile floor coverings
+58 - Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery
+59 - Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind  ...
+60 - Knitted or crocheted fabrics
+61 - Articles of apparel and clothing accessories, knitted or crocheted
+62 - Articles of apparel and clothing accessories, not knitted or crocheted
+63 - Other made-up textile articles; sets; worn clothing and worn textile articles; rags
+64 - Footwear, gaiters and the like; parts of such articles
+65 - Headgear and parts thereof
+66 - Umbrellas, sun umbrellas, walking sticks, seat-sticks, whips, riding-crops and parts thereof
+67 - Prepared feathers and down and articles made of feathers or of down; artificial flowers;  ...
+68 - Articles of stone, plaster, cement, asbestos, mica or similar materials
+69 - Ceramic products
+70 - Glass and glassware
+71 - Natural or cultured pearls, precious or semi-precious stones, precious metals, metals  ...
+72 - Iron and steel
+73 - Articles of iron or steel
+74 - Copper and articles thereof
+75 - Nickel and articles thereof
+76 - Aluminium and articles thereof
+78 - Lead and articles thereof
+79 - Zinc and articles thereof
+80 - Tin and articles thereof
+81 - Other base metals; cermets; articles thereof
+82 - Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal
+83 - Miscellaneous articles of base metal
+84 - Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof
+85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers,  ...
+86 - Railway or tramway locomotives, rolling stock and parts thereof; railway or tramway track  ...
+87 - Vehicles other than railway or tramway rolling stock, and parts and accessories thereof
+88 - Aircraft, spacecraft, and parts thereof
+89 - Ships, boats and floating structures
+90 - Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical  ...
+91 - Clocks and watches and parts thereof
+92 - Musical instruments; parts and accessories of such articles
+93 - Arms and ammunition; parts and accessories thereof
+94 - Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings;  ...
+95 - Toys, games and sports requisites; parts and accessories thereof
+96 - Miscellaneous manufactured articles
+97 - Works of art, collectors' pieces and antiques
+98 - Commodities specified at chapter level only
+99 - Commodities not elsewhere specified",,,
+Product,,"TOTAL - All products
+01 - Live animals
+02 - Meat and edible meat offal
+03 - Fish and crustaceans, molluscs and other aquatic invertebrates
+04 - Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere  ...
+05 - Products of animal origin, not elsewhere specified or included
+06 - Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage
+07 - Edible vegetables and certain roots and tubers
+08 - Edible fruit and nuts; peel of citrus fruit or melons
+09 - Coffee, tea, maté and spices
+10 - Cereals
+11 - Products of the milling industry; malt; starches; inulin; wheat gluten
+12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or  ...
+13 - Lac; gums, resins and other vegetable saps and extracts
+14 - Vegetable plaiting materials; vegetable products not elsewhere specified or included
+15 - Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible  ...
+16 - Preparations of meat, of fish, of crustaceans, molluscs or other aquatic invertebrates,  ...
+17 - Sugars and sugar confectionery
+18 - Cocoa and cocoa preparations
+19 - Preparations of cereals, flour, starch or milk; pastrycooks' products
+20 - Preparations of vegetables, fruit, nuts or other parts of plants
+21 - Miscellaneous edible preparations
+22 - Beverages, spirits and vinegar
+23 - Residues and waste from the food industries; prepared animal fodder
+24 - Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine,  ...
+25 - Salt; sulphur; earths and stone; plastering materials, lime and cement
+26 - Ores, slag and ash
+27 - Mineral fuels, mineral oils and products of their distillation; bituminous substances;  ...
+28 - Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth  ...
+29 - Organic chemicals
+30 - Pharmaceutical products
+31 - Fertilisers
+32 - Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring  ...
+33 - Essential oils and resinoids; perfumery, cosmetic or toilet preparations
+34 - Soap, organic surface-active agents, washing preparations, lubricating preparations, artificial  ...
+35 - Albuminoidal substances; modified starches; glues; enzymes
+36 - Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations
+37 - Photographic or cinematographic goods
+38 - Miscellaneous chemical products
+39 - Plastics and articles thereof
+40 - Rubber and articles thereof
+41 - Raw hides and skins (other than furskins) and leather
+42 - Articles of leather; saddlery and harness; travel goods, handbags and similar containers;  ...
+43 - Furskins and artificial fur; manufactures thereof
+44 - Wood and articles of wood; wood charcoal
+45 - Cork and articles of cork
+46 - Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork
+47 - Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper  ...
+48 - Paper and paperboard; articles of paper pulp, of paper or of paperboard
+49 - Printed books, newspapers, pictures and other products of the printing industry; manuscripts,  ...
+50 - Silk
+51 - Wool, fine or coarse animal hair; horsehair yarn and woven fabric
+52 - Cotton
+53 - Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn
+54 - Man-made filaments; strip and the like of man-made textile materials
+55 - Man-made staple fibres
+56 - Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles  ...
+57 - Carpets and other textile floor coverings
+58 - Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery
+59 - Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind  ...
+60 - Knitted or crocheted fabrics
+61 - Articles of apparel and clothing accessories, knitted or crocheted
+62 - Articles of apparel and clothing accessories, not knitted or crocheted
+63 - Other made-up textile articles; sets; worn clothing and worn textile articles; rags
+64 - Footwear, gaiters and the like; parts of such articles
+65 - Headgear and parts thereof
+66 - Umbrellas, sun umbrellas, walking sticks, seat-sticks, whips, riding-crops and parts thereof
+67 - Prepared feathers and down and articles made of feathers or of down; artificial flowers;  ...
+68 - Articles of stone, plaster, cement, asbestos, mica or similar materials
+69 - Ceramic products
+70 - Glass and glassware
+71 - Natural or cultured pearls, precious or semi-precious stones, precious metals, metals  ...
+72 - Iron and steel
+73 - Articles of iron or steel
+74 - Copper and articles thereof
+75 - Nickel and articles thereof
+76 - Aluminium and articles thereof
+78 - Lead and articles thereof
+79 - Zinc and articles thereof
+80 - Tin and articles thereof
+81 - Other base metals; cermets; articles thereof
+82 - Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal
+83 - Miscellaneous articles of base metal
+84 - Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof
+85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers,  ...
+86 - Railway or tramway locomotives, rolling stock and parts thereof; railway or tramway track  ...
+87 - Vehicles other than railway or tramway rolling stock, and parts and accessories thereof
+88 - Aircraft, spacecraft, and parts thereof
+89 - Ships, boats and floating structures
+90 - Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical  ...
+91 - Clocks and watches and parts thereof
+92 - Musical instruments; parts and accessories of such articles
+93 - Arms and ammunition; parts and accessories thereof
+94 - Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings;  ...
+95 - Toys, games and sports requisites; parts and accessories thereof
+96 - Miscellaneous manufactured articles
+97 - Works of art, collectors' pieces and antiques
+98 - Commodities specified at chapter level only
+99 - Commodities not elsewhere specified",,,,
+"World
+Country
+
+
+
+
+
+All
+Afghanistan
+Africa not elsewhere specified
+Albania
+Algeria
+America not elsewhere specified
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Area Nes
+Argentina
+Armenia
+Aruba
+Asia not elsewhere specified
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia, Plurinational State of
+Bonaire, Sint Eustatius and Saba
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Antarctic Territory
+British Indian Ocean Territory
+British Virgin Islands
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Caribbean Nes
+Cayman Islands
+Centr.Amer.Com.Market (CACM) Nes
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo, Democratic Republic of the
+Cook Islands
+Costa Rica
+Côte d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Europe not elsewhere specified
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Europe EFTA not elsewhere specified
+Europe Othr. Nes
+European Union Nes
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+Free Zones
+French Polynesia
+French Southern and Antarctic Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong, China
+Hungary
+Iceland
+India
+Indonesia
+Iran, Islamic Republic of
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, Democratic People's Republic of
+Korea, Republic of
+Kuwait
+Kyrgyzstan
+LAIA not elsewhere specified
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya, State of
+Lithuania
+Luxembourg
+Macao, China
+Macedonia, North
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia, Federated States of
+Moldova, Republic of
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+Neutral Zone
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Africa not elsewhere specified
+North America and Central America, nes
+Northern Mariana Islands
+Norway
+Oceania Nes
+Oman
+Pakistan
+Palau
+Palestine, State of
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Qatar
+Romania
+Russian Federation
+Rwanda
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles
+Ship stores and bunkers
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Special categories
+Sri Lanka
+Sudan
+Sudan (before 2012)
+Suriname
+Sweden
+Switzerland
+Syrian Arab Republic
+Taipei, Chinese
+Tajikistan
+Tanzania, United Republic of
+Territory not allocated
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Türkiye
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States Minor Outlying Islands
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela, Bolivarian Republic of
+Viet Nam
+Wallis and Futuna Islands
+West Asia not elsewhere specified
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+
+
+
+Country Group
+
+
+
+
+
+
+None
+Africa
+African Growth and Opportunity Act (AGOA)
+African, Caribbean and Pacific Group of States  (ACP Group)
+America
+Andean Community
+Asia
+Asia-Pacific Economic Cooperation (APEC)
+Asia-Pacific Trade Agreement (APTA)
+Association of South-East Asian Nations (ASEAN)
+Black Sea Economic Cooperation Zone (BSEC)
+Brazil, Russia, India and China (BRIC)
+Brazil, Russia, India, China and South Africa (BRICS)
+Caribbean Community (CARICOM)
+Central American Common Market (CACM)
+Central and Eastern Europe (CEE)
+Central Asian Republics
+Common Market for Eastern & Southern Africa (COMESA)
+Common Market of the South (MERCOSUR)
+Commonwealth - Member Countries
+Commonwealth of Independent States (CIS)
+Customs and Economic Union of Central Africa (UDEAC)
+Developed Market Economies
+Developing - 8 (D-8)
+Developing Market Economies
+East African Community (EAC)
+Economic Community of Central African States (ECCAS)
+Economic Community of West African States (ECOWAS)
+Economic Cooperation Organization (ECO)
+Europe
+European Union (EU 15)
+European Union (EU 27)
+European Union (EU 28)
+G7
+Greater China
+Gulf Cooperation Council (GCC)
+Indian Ocean Rim Association for Regional Cooperation (IOR-ARC)
+Landlocked Developing Countries (LLDC)
+Latin America and the Caribbean
+Latin American Integration Association (LAIA)
+Least Developed Countries (LDCs)
+Maghreb
+Middle East
+North American Free Trade Agreement (NAFTA)
+Oceania
+Organisation for Economic Co-operation and Development (OECD)
+Organisation for Economic Co-operation and Development (OECD) - up until 2010
+Organisation internationale de la Francophonie (OIF)
+Organisation of Eastern Caribbean States (OECS)
+Organization of Petroleum Exporting Countries (OPEC)
+Organization of the Islamic Cooperation (OIC)
+Small Island Developing (SID)
+South Asian Association for Regional Cooperation (SAARC)
+Southern African Customs Union (SACU)
+Southern African Development Community (SADC)
+The Eurasian Economic Union (EAEU)
+West African Economic and Monetary Union (WAEMU)
+World Trade Organization (WTO)","World
+Country",,"All
+Afghanistan
+Africa not elsewhere specified
+Albania
+Algeria
+America not elsewhere specified
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Area Nes
+Argentina
+Armenia
+Aruba
+Asia not elsewhere specified
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia, Plurinational State of
+Bonaire, Sint Eustatius and Saba
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Antarctic Territory
+British Indian Ocean Territory
+British Virgin Islands
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Caribbean Nes
+Cayman Islands
+Centr.Amer.Com.Market (CACM) Nes
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo, Democratic Republic of the
+Cook Islands
+Costa Rica
+Côte d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Europe not elsewhere specified
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Europe EFTA not elsewhere specified
+Europe Othr. Nes
+European Union Nes
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+Free Zones
+French Polynesia
+French Southern and Antarctic Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong, China
+Hungary
+Iceland
+India
+Indonesia
+Iran, Islamic Republic of
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, Democratic People's Republic of
+Korea, Republic of
+Kuwait
+Kyrgyzstan
+LAIA not elsewhere specified
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya, State of
+Lithuania
+Luxembourg
+Macao, China
+Macedonia, North
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia, Federated States of
+Moldova, Republic of
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+Neutral Zone
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Africa not elsewhere specified
+North America and Central America, nes
+Northern Mariana Islands
+Norway
+Oceania Nes
+Oman
+Pakistan
+Palau
+Palestine, State of
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Qatar
+Romania
+Russian Federation
+Rwanda
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles
+Ship stores and bunkers
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Special categories
+Sri Lanka
+Sudan
+Sudan (before 2012)
+Suriname
+Sweden
+Switzerland
+Syrian Arab Republic
+Taipei, Chinese
+Tajikistan
+Tanzania, United Republic of
+Territory not allocated
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Türkiye
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States Minor Outlying Islands
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela, Bolivarian Republic of
+Viet Nam
+Wallis and Futuna Islands
+West Asia not elsewhere specified
+Western Sahara
+Yemen
+Zambia
+Zimbabwe",Country Group,,"None
+Africa
+African Growth and Opportunity Act (AGOA)
+African, Caribbean and Pacific Group of States  (ACP Group)
+America
+Andean Community
+Asia
+Asia-Pacific Economic Cooperation (APEC)
+Asia-Pacific Trade Agreement (APTA)
+Association of South-East Asian Nations (ASEAN)
+Black Sea Economic Cooperation Zone (BSEC)
+Brazil, Russia, India and China (BRIC)
+Brazil, Russia, India, China and South Africa (BRICS)
+Caribbean Community (CARICOM)
+Central American Common Market (CACM)
+Central and Eastern Europe (CEE)
+Central Asian Republics
+Common Market for Eastern & Southern Africa (COMESA)
+Common Market of the South (MERCOSUR)
+Commonwealth - Member Countries
+Commonwealth of Independent States (CIS)
+Customs and Economic Union of Central Africa (UDEAC)
+Developed Market Economies
+Developing - 8 (D-8)
+Developing Market Economies
+East African Community (EAC)
+Economic Community of Central African States (ECCAS)
+Economic Community of West African States (ECOWAS)
+Economic Cooperation Organization (ECO)
+Europe
+European Union (EU 15)
+European Union (EU 27)
+European Union (EU 28)
+G7
+Greater China
+Gulf Cooperation Council (GCC)
+Indian Ocean Rim Association for Regional Cooperation (IOR-ARC)
+Landlocked Developing Countries (LLDC)
+Latin America and the Caribbean
+Latin American Integration Association (LAIA)
+Least Developed Countries (LDCs)
+Maghreb
+Middle East
+North American Free Trade Agreement (NAFTA)
+Oceania
+Organisation for Economic Co-operation and Development (OECD)
+Organisation for Economic Co-operation and Development (OECD) - up until 2010
+Organisation internationale de la Francophonie (OIF)
+Organisation of Eastern Caribbean States (OECS)
+Organization of Petroleum Exporting Countries (OPEC)
+Organization of the Islamic Cooperation (OIC)
+Small Island Developing (SID)
+South Asian Association for Regional Cooperation (SAARC)
+Southern African Customs Union (SACU)
+Southern African Development Community (SADC)
+The Eurasian Economic Union (EAEU)
+West African Economic and Monetary Union (WAEMU)
+World Trade Organization (WTO)"
+"World
+Country",,"All
+Afghanistan
+Africa not elsewhere specified
+Albania
+Algeria
+America not elsewhere specified
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Area Nes
+Argentina
+Armenia
+Aruba
+Asia not elsewhere specified
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia, Plurinational State of
+Bonaire, Sint Eustatius and Saba
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Antarctic Territory
+British Indian Ocean Territory
+British Virgin Islands
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Caribbean Nes
+Cayman Islands
+Centr.Amer.Com.Market (CACM) Nes
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo, Democratic Republic of the
+Cook Islands
+Costa Rica
+Côte d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Europe not elsewhere specified
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Europe EFTA not elsewhere specified
+Europe Othr. Nes
+European Union Nes
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+Free Zones
+French Polynesia
+French Southern and Antarctic Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong, China
+Hungary
+Iceland
+India
+Indonesia
+Iran, Islamic Republic of
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, Democratic People's Republic of
+Korea, Republic of
+Kuwait
+Kyrgyzstan
+LAIA not elsewhere specified
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya, State of
+Lithuania
+Luxembourg
+Macao, China
+Macedonia, North
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia, Federated States of
+Moldova, Republic of
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+Neutral Zone
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Africa not elsewhere specified
+North America and Central America, nes
+Northern Mariana Islands
+Norway
+Oceania Nes
+Oman
+Pakistan
+Palau
+Palestine, State of
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Qatar
+Romania
+Russian Federation
+Rwanda
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles
+Ship stores and bunkers
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Special categories
+Sri Lanka
+Sudan
+Sudan (before 2012)
+Suriname
+Sweden
+Switzerland
+Syrian Arab Republic
+Taipei, Chinese
+Tajikistan
+Tanzania, United Republic of
+Territory not allocated
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Türkiye
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States Minor Outlying Islands
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela, Bolivarian Republic of
+Viet Nam
+Wallis and Futuna Islands
+West Asia not elsewhere specified
+Western Sahara
+Yemen
+Zambia
+Zimbabwe",Country Group,,"None
+Africa
+African Growth and Opportunity Act (AGOA)
+African, Caribbean and Pacific Group of States  (ACP Group)
+America
+Andean Community
+Asia
+Asia-Pacific Economic Cooperation (APEC)
+Asia-Pacific Trade Agreement (APTA)
+Association of South-East Asian Nations (ASEAN)
+Black Sea Economic Cooperation Zone (BSEC)
+Brazil, Russia, India and China (BRIC)
+Brazil, Russia, India, China and South Africa (BRICS)
+Caribbean Community (CARICOM)
+Central American Common Market (CACM)
+Central and Eastern Europe (CEE)
+Central Asian Republics
+Common Market for Eastern & Southern Africa (COMESA)
+Common Market of the South (MERCOSUR)
+Commonwealth - Member Countries
+Commonwealth of Independent States (CIS)
+Customs and Economic Union of Central Africa (UDEAC)
+Developed Market Economies
+Developing - 8 (D-8)
+Developing Market Economies
+East African Community (EAC)
+Economic Community of Central African States (ECCAS)
+Economic Community of West African States (ECOWAS)
+Economic Cooperation Organization (ECO)
+Europe
+European Union (EU 15)
+European Union (EU 27)
+European Union (EU 28)
+G7
+Greater China
+Gulf Cooperation Council (GCC)
+Indian Ocean Rim Association for Regional Cooperation (IOR-ARC)
+Landlocked Developing Countries (LLDC)
+Latin America and the Caribbean
+Latin American Integration Association (LAIA)
+Least Developed Countries (LDCs)
+Maghreb
+Middle East
+North American Free Trade Agreement (NAFTA)
+Oceania
+Organisation for Economic Co-operation and Development (OECD)
+Organisation for Economic Co-operation and Development (OECD) - up until 2010
+Organisation internationale de la Francophonie (OIF)
+Organisation of Eastern Caribbean States (OECS)
+Organization of Petroleum Exporting Countries (OPEC)
+Organization of the Islamic Cooperation (OIC)
+Small Island Developing (SID)
+South Asian Association for Regional Cooperation (SAARC)
+Southern African Customs Union (SACU)
+Southern African Development Community (SADC)
+The Eurasian Economic Union (EAEU)
+West African Economic and Monetary Union (WAEMU)
+World Trade Organization (WTO)",
+"Partner
+
+
+
+
+All
+Afghanistan
+Africa not elsewhere specified
+Albania
+Algeria
+America not elsewhere specified
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Area Nes
+Argentina
+Armenia
+Aruba
+Asia not elsewhere specified
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia, Plurinational State of
+Bonaire, Sint Eustatius and Saba
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Antarctic Territory
+British Indian Ocean Territory
+British Virgin Islands
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Caribbean Nes
+Cayman Islands
+Centr.Amer.Com.Market (CACM) Nes
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo, Democratic Republic of the
+Cook Islands
+Costa Rica
+Côte d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Europe not elsewhere specified
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Europe EFTA not elsewhere specified
+Europe Othr. Nes
+European Union Nes
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+Free Zones
+French Polynesia
+French Southern and Antarctic Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong, China
+Hungary
+Iceland
+India
+Indonesia
+Iran, Islamic Republic of
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, Democratic People's Republic of
+Korea, Republic of
+Kuwait
+Kyrgyzstan
+LAIA not elsewhere specified
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya, State of
+Lithuania
+Luxembourg
+Macao, China
+Macedonia, North
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia, Federated States of
+Moldova, Republic of
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+Neutral Zone
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Africa not elsewhere specified
+North America and Central America, nes
+Northern Mariana Islands
+Norway
+Oceania Nes
+Oman
+Pakistan
+Palau
+Palestine, State of
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Qatar
+Romania
+Russian Federation
+Rwanda
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles
+Ship stores and bunkers
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Special categories
+Sri Lanka
+Sudan
+Sudan (before 2012)
+Suriname
+Sweden
+Switzerland
+Syrian Arab Republic
+Taipei, Chinese
+Tajikistan
+Tanzania, United Republic of
+Territory not allocated
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Türkiye
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States Minor Outlying Islands
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela, Bolivarian Republic of
+Viet Nam
+Wallis and Futuna Islands
+West Asia not elsewhere specified
+Western Sahara
+World
+Yemen
+Zambia
+Zimbabwe
+
+
+
+
+
+Partner Group
+
+
+
+
+
+
+None
+Africa
+African Growth and Opportunity Act (AGOA)
+African, Caribbean and Pacific Group of States  (ACP Group)
+America
+Andean Community
+Asia
+Asia-Pacific Economic Cooperation (APEC)
+Asia-Pacific Trade Agreement (APTA)
+Association of South-East Asian Nations (ASEAN)
+Black Sea Economic Cooperation Zone (BSEC)
+Brazil, Russia, India and China (BRIC)
+Brazil, Russia, India, China and South Africa (BRICS)
+Caribbean Community (CARICOM)
+Central American Common Market (CACM)
+Central and Eastern Europe (CEE)
+Central Asian Republics
+Common Market for Eastern & Southern Africa (COMESA)
+Common Market of the South (MERCOSUR)
+Commonwealth - Member Countries
+Commonwealth of Independent States (CIS)
+Customs and Economic Union of Central Africa (UDEAC)
+Developed Market Economies
+Developing - 8 (D-8)
+Developing Market Economies
+East African Community (EAC)
+Economic Community of Central African States (ECCAS)
+Economic Community of West African States (ECOWAS)
+Economic Cooperation Organization (ECO)
+Europe
+European Union (EU 15)
+European Union (EU 27)
+European Union (EU 28)
+G7
+Greater China
+Gulf Cooperation Council (GCC)
+Indian Ocean Rim Association for Regional Cooperation (IOR-ARC)
+Landlocked Developing Countries (LLDC)
+Latin America and the Caribbean
+Latin American Integration Association (LAIA)
+Least Developed Countries (LDCs)
+Maghreb
+Middle East
+North American Free Trade Agreement (NAFTA)
+Oceania
+Organisation for Economic Co-operation and Development (OECD)
+Organisation for Economic Co-operation and Development (OECD) - up until 2010
+Organisation internationale de la Francophonie (OIF)
+Organisation of Eastern Caribbean States (OECS)
+Organization of Petroleum Exporting Countries (OPEC)
+Organization of the Islamic Cooperation (OIC)
+Small Island Developing (SID)
+South Asian Association for Regional Cooperation (SAARC)
+Southern African Customs Union (SACU)
+Southern African Development Community (SADC)
+The Eurasian Economic Union (EAEU)
+West African Economic and Monetary Union (WAEMU)
+World Trade Organization (WTO)",Partner,,"All
+Afghanistan
+Africa not elsewhere specified
+Albania
+Algeria
+America not elsewhere specified
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Area Nes
+Argentina
+Armenia
+Aruba
+Asia not elsewhere specified
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia, Plurinational State of
+Bonaire, Sint Eustatius and Saba
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Antarctic Territory
+British Indian Ocean Territory
+British Virgin Islands
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Caribbean Nes
+Cayman Islands
+Centr.Amer.Com.Market (CACM) Nes
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo, Democratic Republic of the
+Cook Islands
+Costa Rica
+Côte d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Europe not elsewhere specified
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Europe EFTA not elsewhere specified
+Europe Othr. Nes
+European Union Nes
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+Free Zones
+French Polynesia
+French Southern and Antarctic Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong, China
+Hungary
+Iceland
+India
+Indonesia
+Iran, Islamic Republic of
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, Democratic People's Republic of
+Korea, Republic of
+Kuwait
+Kyrgyzstan
+LAIA not elsewhere specified
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya, State of
+Lithuania
+Luxembourg
+Macao, China
+Macedonia, North
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia, Federated States of
+Moldova, Republic of
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+Neutral Zone
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Africa not elsewhere specified
+North America and Central America, nes
+Northern Mariana Islands
+Norway
+Oceania Nes
+Oman
+Pakistan
+Palau
+Palestine, State of
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Qatar
+Romania
+Russian Federation
+Rwanda
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles
+Ship stores and bunkers
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Special categories
+Sri Lanka
+Sudan
+Sudan (before 2012)
+Suriname
+Sweden
+Switzerland
+Syrian Arab Republic
+Taipei, Chinese
+Tajikistan
+Tanzania, United Republic of
+Territory not allocated
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Türkiye
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States Minor Outlying Islands
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela, Bolivarian Republic of
+Viet Nam
+Wallis and Futuna Islands
+West Asia not elsewhere specified
+Western Sahara
+World
+Yemen
+Zambia
+Zimbabwe",Partner Group,,"None
+Africa
+African Growth and Opportunity Act (AGOA)
+African, Caribbean and Pacific Group of States  (ACP Group)
+America
+Andean Community
+Asia
+Asia-Pacific Economic Cooperation (APEC)
+Asia-Pacific Trade Agreement (APTA)
+Association of South-East Asian Nations (ASEAN)
+Black Sea Economic Cooperation Zone (BSEC)
+Brazil, Russia, India and China (BRIC)
+Brazil, Russia, India, China and South Africa (BRICS)
+Caribbean Community (CARICOM)
+Central American Common Market (CACM)
+Central and Eastern Europe (CEE)
+Central Asian Republics
+Common Market for Eastern & Southern Africa (COMESA)
+Common Market of the South (MERCOSUR)
+Commonwealth - Member Countries
+Commonwealth of Independent States (CIS)
+Customs and Economic Union of Central Africa (UDEAC)
+Developed Market Economies
+Developing - 8 (D-8)
+Developing Market Economies
+East African Community (EAC)
+Economic Community of Central African States (ECCAS)
+Economic Community of West African States (ECOWAS)
+Economic Cooperation Organization (ECO)
+Europe
+European Union (EU 15)
+European Union (EU 27)
+European Union (EU 28)
+G7
+Greater China
+Gulf Cooperation Council (GCC)
+Indian Ocean Rim Association for Regional Cooperation (IOR-ARC)
+Landlocked Developing Countries (LLDC)
+Latin America and the Caribbean
+Latin American Integration Association (LAIA)
+Least Developed Countries (LDCs)
+Maghreb
+Middle East
+North American Free Trade Agreement (NAFTA)
+Oceania
+Organisation for Economic Co-operation and Development (OECD)
+Organisation for Economic Co-operation and Development (OECD) - up until 2010
+Organisation internationale de la Francophonie (OIF)
+Organisation of Eastern Caribbean States (OECS)
+Organization of Petroleum Exporting Countries (OPEC)
+Organization of the Islamic Cooperation (OIC)
+Small Island Developing (SID)
+South Asian Association for Regional Cooperation (SAARC)
+Southern African Customs Union (SACU)
+Southern African Development Community (SADC)
+The Eurasian Economic Union (EAEU)
+West African Economic and Monetary Union (WAEMU)
+World Trade Organization (WTO)"
+Partner,,"All
+Afghanistan
+Africa not elsewhere specified
+Albania
+Algeria
+America not elsewhere specified
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Area Nes
+Argentina
+Armenia
+Aruba
+Asia not elsewhere specified
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia, Plurinational State of
+Bonaire, Sint Eustatius and Saba
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Antarctic Territory
+British Indian Ocean Territory
+British Virgin Islands
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Caribbean Nes
+Cayman Islands
+Centr.Amer.Com.Market (CACM) Nes
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo, Democratic Republic of the
+Cook Islands
+Costa Rica
+Côte d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Europe not elsewhere specified
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Europe EFTA not elsewhere specified
+Europe Othr. Nes
+European Union Nes
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+Free Zones
+French Polynesia
+French Southern and Antarctic Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong, China
+Hungary
+Iceland
+India
+Indonesia
+Iran, Islamic Republic of
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, Democratic People's Republic of
+Korea, Republic of
+Kuwait
+Kyrgyzstan
+LAIA not elsewhere specified
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya, State of
+Lithuania
+Luxembourg
+Macao, China
+Macedonia, North
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia, Federated States of
+Moldova, Republic of
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+Neutral Zone
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Africa not elsewhere specified
+North America and Central America, nes
+Northern Mariana Islands
+Norway
+Oceania Nes
+Oman
+Pakistan
+Palau
+Palestine, State of
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Qatar
+Romania
+Russian Federation
+Rwanda
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles
+Ship stores and bunkers
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Special categories
+Sri Lanka
+Sudan
+Sudan (before 2012)
+Suriname
+Sweden
+Switzerland
+Syrian Arab Republic
+Taipei, Chinese
+Tajikistan
+Tanzania, United Republic of
+Territory not allocated
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Türkiye
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States Minor Outlying Islands
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela, Bolivarian Republic of
+Viet Nam
+Wallis and Futuna Islands
+West Asia not elsewhere specified
+Western Sahara
+World
+Yemen
+Zambia
+Zimbabwe",Partner Group,,"None
+Africa
+African Growth and Opportunity Act (AGOA)
+African, Caribbean and Pacific Group of States  (ACP Group)
+America
+Andean Community
+Asia
+Asia-Pacific Economic Cooperation (APEC)
+Asia-Pacific Trade Agreement (APTA)
+Association of South-East Asian Nations (ASEAN)
+Black Sea Economic Cooperation Zone (BSEC)
+Brazil, Russia, India and China (BRIC)
+Brazil, Russia, India, China and South Africa (BRICS)
+Caribbean Community (CARICOM)
+Central American Common Market (CACM)
+Central and Eastern Europe (CEE)
+Central Asian Republics
+Common Market for Eastern & Southern Africa (COMESA)
+Common Market of the South (MERCOSUR)
+Commonwealth - Member Countries
+Commonwealth of Independent States (CIS)
+Customs and Economic Union of Central Africa (UDEAC)
+Developed Market Economies
+Developing - 8 (D-8)
+Developing Market Economies
+East African Community (EAC)
+Economic Community of Central African States (ECCAS)
+Economic Community of West African States (ECOWAS)
+Economic Cooperation Organization (ECO)
+Europe
+European Union (EU 15)
+European Union (EU 27)
+European Union (EU 28)
+G7
+Greater China
+Gulf Cooperation Council (GCC)
+Indian Ocean Rim Association for Regional Cooperation (IOR-ARC)
+Landlocked Developing Countries (LLDC)
+Latin America and the Caribbean
+Latin American Integration Association (LAIA)
+Least Developed Countries (LDCs)
+Maghreb
+Middle East
+North American Free Trade Agreement (NAFTA)
+Oceania
+Organisation for Economic Co-operation and Development (OECD)
+Organisation for Economic Co-operation and Development (OECD) - up until 2010
+Organisation internationale de la Francophonie (OIF)
+Organisation of Eastern Caribbean States (OECS)
+Organization of Petroleum Exporting Countries (OPEC)
+Organization of the Islamic Cooperation (OIC)
+Small Island Developing (SID)
+South Asian Association for Regional Cooperation (SAARC)
+Southern African Customs Union (SACU)
+Southern African Development Community (SADC)
+The Eurasian Economic Union (EAEU)
+West African Economic and Monetary Union (WAEMU)
+World Trade Organization (WTO)",
+,"other criteria
+
+
+
+
+
+
+Exports
+Imports
+
+
+
+
+Trade indicators
+Yearly time series
+Quarterly time series
+Monthly time series
+
+
+
+
+by country
+by product
+by service
+
+
+
+
+Direct data
+Mirror data",other criteria,,"Exports
+Imports
+
+
+
+
+Trade indicators
+Yearly time series
+Quarterly time series
+Monthly time series
+
+
+
+
+by country
+by product
+by service
+
+
+
+
+Direct data
+Mirror data",,
+other criteria,,"Exports
+Imports
+
+
+
+
+Trade indicators
+Yearly time series
+Quarterly time series
+Monthly time series
+
+
+
+
+by country
+by product
+by service
+
+
+
+
+Direct data
+Mirror data",,,,
